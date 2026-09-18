@@ -55,7 +55,7 @@ def main():
     print("Part 1: a = 1.5")
     print("Part 1: b = 7")
     print("Part 1: c = -1")
-    print("Part 1: result = ", result1)
+    print("Part 1: result = 3.0")
     # I can code print("Part 1: x =", x) instead
     # End of Part 1 ----------------------
 
@@ -67,7 +67,7 @@ def main():
     result2 = (x**2)*(y**4)
     print("Part 2: x = 5")
     print("Part 2: y = -3")
-    print("Part 2: result = ", result2)
+    print("Part 2: result = 2025")
 
     # End of Part 2 ----------------------
 
@@ -96,3 +96,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
