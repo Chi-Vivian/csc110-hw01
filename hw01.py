@@ -56,7 +56,7 @@ def main():
     print("Part 1: b = 7")
     print("Part 1: c = -1")
     print("Part 1: result = 3.0")
-    # I can code print("Part 1: x =", x) instead
+    # Evaluate arithmetic expression using standard arithmetic operations 
     # End of Part 1 ----------------------
 
 
@@ -68,7 +68,7 @@ def main():
     print("Part 2: x = 5")
     print("Part 2: y = -3")
     print("Part 2: result = 2025")
-
+    #Calculate exponentiation using ** operator and multiply the values
     # End of Part 2 ----------------------
 
 
@@ -81,7 +81,7 @@ def main():
     print("Part 3: a = 100")
     print("Part 3: b = 13")
     print("Part 3: result =", result3)
-    # I can use int(a/b) instead of a//b
+    # Use // to get integer quotient without decimal part or remainder, rounding the result down to the nearest whole integer
     # End of Part 3 ----------------------
 
 
@@ -91,7 +91,7 @@ def main():
     b = 13
     result4 = a%b
     print("Part 4: result =", result4)
-
+    # Use % operator to find remainder of division
     # End of Part 4 ----------------------
 
 if __name__ == "__main__":
